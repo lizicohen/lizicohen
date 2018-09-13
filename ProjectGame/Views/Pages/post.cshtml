@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "post";
+}
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/post.js"></script>
+
+<h2>post</h2>
+<h5>Add new game</h5>
+<label class="mt-3 ">name game</label>
+<input type="text" id="txtName" /><br />
+<label class="mt-3 ">name player 1:</label>
+<input type="text" id="txtPlayer1" /><br />
+<label class="mt-3 ">name player 2:</label>
+<input type="text" id="txtPlayer2" /><br />
+<label class="mt-3 ">who win?:</label>
+<input id="rP1" type="radio" class="ml-3" name="rWinner" />player 1
+<input id="rP2" type="radio" class="ml-3" name="rWinner" />player 2<br />
+<button id="btnAdd" class="btn btn-primary">Add new Gameswith xml</button>
+<button id="btnAddAjax" class="btn btn-primary">Add new Games with ajax</button>
