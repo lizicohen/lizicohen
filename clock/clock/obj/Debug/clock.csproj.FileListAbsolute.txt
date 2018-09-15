@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\bin\Debug\clock.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\bin\Debug\clock.exe
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\bin\Debug\clock.pdb
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\obj\Debug\clock.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\obj\Debug\clock.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\obj\Debug\clock.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\obj\Debug\clock.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\obj\Debug\clock.exe
+c:\users\pc\documents\visual studio 2015\Projects\clock\clock\obj\Debug\clock.pdb
+C:\Users\aliza\Downloads\clock\clock\clock\bin\Debug\clock.exe.config
+C:\Users\aliza\Downloads\clock\clock\clock\bin\Debug\clock.exe
+C:\Users\aliza\Downloads\clock\clock\clock\bin\Debug\clock.pdb
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.csprojAssemblyReference.cache
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.Form1.resources
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.csproj.GenerateResource.cache
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.exe
+C:\Users\aliza\Downloads\clock\clock\clock\obj\Debug\clock.pdb
