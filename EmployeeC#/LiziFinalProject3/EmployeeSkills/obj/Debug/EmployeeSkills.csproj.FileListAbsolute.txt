@@ -1,0 +1,69 @@
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EmployeeSkills.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EmployeeSkills.exe
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EmployeeSkills.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.exe
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.FormMain.resources
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EmployeeSkills.exe.config
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.exe
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.pdb
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EmployeeSkills.exe
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EmployeeSkills.pdb
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.dll
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.xml
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.csprojResolveAssemblyReference.cache
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.FormMain.resources
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.Properties.Resources.resources
+C:\Users\Aviad\Desktop\Lizi\LiziFinalProject\EmployeeSkills\obj\Debug\EmployeeSkills.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EmployeeSkills.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EmployeeSkills.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.FormMain.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.csproj.GenerateResource.Cache
+E:\Lizi\LiziFinalProject2\EmployeeSkills\bin\Debug\EmployeeSkills.exe.config
+E:\Lizi\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.exe
+E:\Lizi\LiziFinalProject2\EmployeeSkills\obj\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EmployeeSkills.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EmployeeSkills.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.FormMain.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EmployeeSkills.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EmployeeSkills.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EmployeeSkills.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.FormMain.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\LiziC\LiziFinalProject3\EmployeeSkills\obj\Debug\EmployeeSkills.csproj.CoreCompileInputs.cache
