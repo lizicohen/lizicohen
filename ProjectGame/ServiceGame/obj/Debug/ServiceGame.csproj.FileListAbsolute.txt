@@ -1,0 +1,12 @@
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\ServiceGame.dll.config
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\ServiceGame.dll
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\ServiceGame.pdb
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\EntityFramework.dll
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\EntityFramework.xml
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csproj.CoreCompileInputs.cache
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csproj.CopyComplete
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.dll
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.pdb
+c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csprojAssemblyReference.cache
