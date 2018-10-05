@@ -76,23 +76,28 @@ export class serviceGame{
 searchByFilter(id,name, player1, player2, who_win){
     
     let param=[id,name, player1, player2, who_win]
-    this.url="http://localhost:50401/api/game/SearchFilter?";
-    id!=0?this.url+="id="+id+"&":true;
-    name!=""?this.url+="name="+name+"&":true;
-    player1!=""?this.url+="player1="+player1+"&":true;
-    player2!=""?this.url+="player2="+player2+"&":true;
-    who_win!=""?this.url+="who_win="+who_win+"&":true;
-    this.url=this.url.substring(0,this.url.length-1);
-    //alert(this.url);
-    this.arrResult=[];
-    return this._http.get(this.url).subscribe(
+    let serachUrl ="http://localhost:50401/api/game/SearchFilter?";
+    
+    id!=0?serachUrl+="id="+id+"&":true;
+    name!=""?serachUrl+="name="+name+"&":true;
+    player1!=""?serachUrl+="player1="+player1+"&":true;
+    player2!=""?serachUrl+="player2="+player2+"&":true;
+    who_win!=""?serachUrl+="who_win="+who_win+"&":true;
+    serachUrl = serachUrl.substring(0,serachUrl.length-1);
+   // alert(serachUrl);
+    while (this.arrResult.length > 0)
+   {
+       this.arrResult.pop();
+   }
+   
+    return this._http.get(serachUrl).subscribe(
         (response=>{
             console.log(response);
             var temp = response.json();
             for(let item of temp)
             {
                 console.log(item)
-                this.arrResult.push(item)
+                 this.arrResult.push(item)
             }
             
             

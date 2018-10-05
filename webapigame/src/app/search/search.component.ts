@@ -21,7 +21,7 @@ getGame(id, name, p1, p2, win){
   this.arrResult = this.serviceGame.arrResult;
  
 this.serviceGame.searchByFilter(id.value, name.value,p1.value, p2.value, win.value);
-this.arrResult = this.serviceGame.arrResult;
+//this.arrResult = this.serviceGame.arrResult;
 console.log(this.arrResult);
 if (this.arrResult.length===0)
 this.found="not found";
