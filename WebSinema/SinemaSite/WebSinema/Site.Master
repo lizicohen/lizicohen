@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebSinema.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>SinemaSite</title>
+   
+    <script src="Scripts/jquery-3.3.1.js"></script>
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
+   <%-- <script src="Scripts/bootstrap.min.js"></script>
+     --%>
+   <%--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>--%>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    
+
+   
+    <nav class="navbar navbar-expand-sm navbar-light bg-light mb-2">
+    <div class="container">
+      <div class="navbar-header">
+        <a href="#" class="navbar-brand">SinemaSite</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="mainNavigation">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a href="/index.aspx" class="nav-link">Home</a>
+          </li>
+            <li class="nav-item">
+            <a href="/ViewPage/About.aspx" class="nav-link">About</a>
+          </li>
+            <li class="nav-item">
+            <a href="/ViewPage/Contact.aspx" class="nav-link">Contact</a>
+          </li>
+           
+            <li class="nav-item">
+            <a href="/ViewPages/Register.aspx" class="nav-link"><span class="glyphicon glyphicon-user "></span>Register</a>
+          </li>
+          <li class="nav-item">
+            <a href="/ViewPages/Login.aspx" class="nav-link" id="loginNav" runat="server">Login </a>
+          </li>
+       </ul>
+               <div class="navbar-nav dropdown ml-auto">
+            <div class="nav-item dropdown">
+              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" >
+               Enter Manager
+              </a>
+              <div class="dropdown-menu" id="dd">
+                 <a href="ViewPages/Manager/AddMovei.aspx" class="dropdown-item">Add Movei</a>
+                 <a href="ViewPages/Manager/EnterManager.aspx" class="dropdown-item">Add User</a>
+                  <a href="ViewPages/Manager/AllData.aspx" class="dropdown-item">All Moveis</a>
+                  <a href="ViewPages/Manager/AllUsers.aspx" class="dropdown-item">All Users</a>
+              </div>
+            </div>
+          </div>
+         <%--  <li class="nav-item dropdown ml-auto">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          EnterManager
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a href="ViewPages/Manager/AddMovei.aspx" class="dropdown-item">Add Movei</a>
+                 <a href="ViewPages/Manager/EnterManager.aspx" class="dropdown-item">Add User</a>
+            <a href="ViewPages/Manager/AllData.aspx" class="dropdown-item">All Moveis</a>
+                  <a href="ViewPages/Manager/AllUsers.aspx" class="dropdown-item">All Users</a>
+        </div>
+      </li>--%>
+
+
+
+
+       
+      </div>
+    </div>
+  </nav>
+        <div class="container">
+             <asp:ContentPlaceHolder ID="ContentMain" runat="server">
+            </asp:ContentPlaceHolder>
+          
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" ></script>
+            
+            <script src="Scripts/bootstrap.min.js"></script>
+            <script src="Scripts/jquery-3.3.1.js"></script>
+        </div>
+   
+  </body>
+ 
+</html>
+
+
