@@ -10,3 +10,15 @@ c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csproj
 c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.dll
 c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.pdb
 c:\users\aliza\source\repos\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csprojAssemblyReference.cache
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\ServiceGame.dll.config
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\ServiceGame.dll
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\ServiceGame.pdb
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\EntityFramework.dll
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\EntityFramework.xml
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csprojAssemblyReference.cache
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csproj.CoreCompileInputs.cache
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\obj\Debug\ServiceGame.csproj.CopyComplete
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\obj\Debug\ServiceGame.dll
+C:\Users\aliza\source\repos\lizicohen\ProjectGame\ServiceGame\obj\Debug\ServiceGame.pdb
